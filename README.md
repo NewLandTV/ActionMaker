@@ -2,6 +2,10 @@
 
 My first Java graphics game.
 
+[![Development Note p.454](https://img.youtube.com/vi/KDt-sveXRxs/0.jpg)](https://www.youtube.com/watch?v=KDt-sveXRxs)
+
+[![Development Note p.460](https://img.youtube.com/vi/ZqVFaqPPFNU/0.jpg)](https://www.youtube.com/watch?v=ZqVFaqPPFNU)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
